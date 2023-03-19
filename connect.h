@@ -4,6 +4,8 @@
 #include "parent.h"
 #include "child.h"
 
+// ini komentar
+
 void delete_kelas(list_P &L, adr_P &P);
 void delete_dataMhs(list_P &Lp, list_C &L);
 void input_Ch(list_C &L, list_P &Lp);
