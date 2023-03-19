@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1673684344 source:c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\list_child.cpp
+	"list_child.h"
+
+1673684344 c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1673684344 c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\list_parent.h
+	<iostream>
+
+1673682886 source:c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\list_parent.cpp
+	"list_parent.h"
+
+1673684344 source:c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"relasi.h"
+
+1673685643 source:c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\relasi.cpp
+	"relasi.h"
+
+1673679665 c:\users\lenovo\downloads\tubes std\tubes std t17\tubes std\relasi.h
+	"list_parent.h"
+	"list_child.h"
+
